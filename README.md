@@ -1,0 +1,1 @@
+# c-program-to-find-unique-element-in-the-given-range
